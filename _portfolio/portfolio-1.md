@@ -1,6 +1,6 @@
 ---
 title: "Harp"
-excerpt: "High Performance Machine Learning tools for achieving your goals faster.<br/><img src='/images/Harpimage.png'>"
+excerpt: "High Performance Machine Learning tools for achieving your goals faster.<br/><img src='/JudyFox/images/Harpimage.png'>"
 collection: portfolio
 ---
 ## Overview
