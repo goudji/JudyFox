@@ -1,6 +1,6 @@
 ---
 title: "IndyCar"
-excerpt: "Real-time anomaly detection from edge to HPC-cloud in collaboration with Indycar and Intel.<br/><img src='/images/indycarimage.avif'>"
+excerpt: "Real-time anomaly detection from edge to HPC-cloud in collaboration with Indycar and Intel.<br/><img src='/images/indycarimage.png'>"
 collection: portfolio
 ---
 ## Research Overview
