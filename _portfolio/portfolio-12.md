@@ -1,10 +1,14 @@
 ---
 title: "Million Sequence Clustering"
-excerpt: "Find clusters for large sequence sets with around million sequences<br/><img src='/images/500x300.png'>"
+excerpt: "Find clusters for large sequence sets with around million sequences<br/><img src='/JudyFox/images/seq.png' width='300' height='200'>"
 collection: portfolio
 ---
 
+<img src='/JudyFox/images/seq.png' width='300' height='200'>
+
 The goal of million sequence clustering was to find clusters for large sequence sets with around million sequences.
+
+[Website](http://salsahpc.indiana.edu/millionseq/)
 
 ## Introduction
 

@@ -1,10 +1,14 @@
 ---
 title: "SalsaDPI"
-excerpt: "Reproducible environment on public or private clouds<br/><img src='/images/500x300.png'>"
+excerpt: "Reproducible environment on public or private clouds<br/><img src='/JudyFox/images/salsa.png' width='300' height='200'>"
 collection: portfolio
 ---
 
+ <img src='/JudyFox/images/salsa.png' width='300' height='200'>
+
 This is a collaborative project supported by Indiana University and Virginia Polytechnic Institute and State University, supervised by Judy Qiu, Assistant Director of the Pervasive Technology Institute at Indiana University Bloomington.
+
+[Website](http://salsahpc.indiana.edu/salsadpi/index.php)
 
 ## Introduction
 
@@ -23,4 +27,4 @@ The tutorial page provides instructions for using this online interface
 
 ## Show case: salsaDPI in Science Cloud Summer School 2012
 
-In the summer of 2012, Indiana University and other 9 university sites hosted a week-long virtual Science Cloud Summer School. This conference introduced cloud technologies and science applications to over 200 graduate students and staff participants across the nation. SalsaDPI was used as one of the cloud tools and contributed to a tutorial for reproducible environments. It has the ability to deploy both a single node (sandbox) and a virtual cluster. Also, it automatically executes Hadoop and Twister applications like WordCount and Kmeans after installing the selected software stack. The tutorial is available online. A video example of Hadoop WordCount can be accessed from Youtube (please view it with video quality of 1080p).
+In the summer of 2012, Indiana University and other 9 university sites hosted a week-long virtual [Science Cloud Summer School](https://sciencecloudsummer2012.tumblr.com/schedule). This conference introduced cloud technologies and science applications to over 200 graduate students and staff participants across the nation. SalsaDPI was used as one of the cloud tools and contributed to a tutorial for reproducible environments. It has the ability to deploy both a single node (sandbox) and a virtual cluster. Also, it automatically executes Hadoop and Twister applications like WordCount and Kmeans after installing the selected software stack. The tutorial is available online. A video example of Hadoop WordCount can be accessed from [Youtube](https://www.youtube.com/watch?feature=player_embedded&v=kWom0lj8qxI) (please view it with video quality of 1080p).

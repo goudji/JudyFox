@@ -4,6 +4,9 @@ excerpt: "High Performance Machine Learning tools for achieving your goals faste
 collection: portfolio
 ---
 
+<img src='/JudyFox/images/Harpimage.png' width='300' height='200'>
+
+[Website](https://dsc-spidal.github.io/harp/) [GitHub](https://github.com/DSC-SPIDAL/harp)
 ## Introduction
 
 
