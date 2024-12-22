@@ -12,7 +12,7 @@ redirect_from:
     text-align: left;
     background-color: #f2f2f2;
     margin: 0;
-    padding-left: 100px;
+    padding-left: 10px;
     font-size: medium;
     padding-top: 40px;
 }
@@ -35,11 +35,12 @@ redirect_from:
 }
 
 .collaborator img {
-    width: 180px;
-    height: 200px;
+    width: 230px;
+    height: 110px;
     border-radius: 50%;
     object-fit: cover;
     object-position: center;
+    margin-bottom: 15px;
 }
 
 .collaborator-info {
