@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Judy Fox"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Judy Fox"
 description              : &description "personal description"
 url                      : https://goudji.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/JudyFox" # the subpath of your site, e.g. "/blog"
