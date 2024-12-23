@@ -27,6 +27,10 @@ fine-tuning (”zero-shot”). Our benchmark study, which includes
 financial aid with seven other time series tasks, shows the
 potential of using LLMs for scarce financial datasets.
 
+## Presentation Video
+
+## Presentation
+
 ## Publications
 Large Language Models for Financial Aid in Financial Time-series Forecasting
 IEEE Big Data International Workshop on Large Language Models for Finance, Washington DC, USA, December 2024
