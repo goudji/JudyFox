@@ -20,10 +20,14 @@ main:
           
   - title: "CV"
     url: /cv/
+  
+  - title: "CV2"
+    url: /cvj/
 
   - title: "People"
     url: /people/
     
+  
 
 
   
