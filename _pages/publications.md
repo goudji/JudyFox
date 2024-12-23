@@ -7,6 +7,9 @@ redirect_from:
   - "/publications"
 ---
 ## 2024
+Large Language Models for Financial Aid in Financial Time-series Forecasting
+IEEE Big Data International Workshop on Large Language Models for Finance, Washington DC, USA, December 2024 [Link](https://arxiv.org/abs/2410.19025) 
+
 Temporal Dependencies and Spatio-Temporal Patterns of Time Series Models, The 38th Annual AAAI Conference on Artificial Intelligence (AAAI-24), Vancouver, Canada, February 2024 [Link](https://ojs.aaai.org/index.php/AAAI/article/view/30396)
 
 Interpreting Time Series Transformer Models and Sensitivity Analysis of Population Age Groups to COVID-19 Infections, AI for Time-Series workshop, AAAI-24, Vancouver, Canada, February 2024 [Link](https://arxiv.org/abs/2401.15119)
