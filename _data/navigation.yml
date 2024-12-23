@@ -6,6 +6,9 @@
 
 main:
   
+  - title: "Projects"
+    url: /portfolio/
+
   - title: "Publications"
     url: /publications/
 
@@ -14,9 +17,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Projects"
-    url: /portfolio/
           
   - title: "CV"
     url: /cv/
@@ -24,7 +24,6 @@ main:
   - title: "People"
     url: /people/
     
-  - title: "Guide"
-    url: /markdown/
+
 
   

@@ -12,3 +12,14 @@ Judy Fox is an associate professor of School of Data Science at University of Vi
 She led an Intel Parallel Computing Center (IPCC) site. She offered an online course CloudMOOC as part of the Data Science Program. Her research has been funded by NSF, NIH, Intel, Microsoft, and Google. 
 
 She graduated from Syracuse University with an Outstanding Graduate Student Award, completing her Ph.D. in Computer Science in 2005. She is the recipient of a NSF CAREER Award in 2012. Trustess Award for Teaching Excellence 2013-2014. Outstand Junior Faculty Award 2014-2015. Most recently, she served as Director of Graduate Studies of Data Science at Indiana University.
+
+## News
+Md Khairul Islam wins 1st Place Prize in the Covid Information Commons Paper Challenge Graduate Student Paper Challenge!
+
+Md Khairul Islam Wins Third Place prize in the 2023 IEEE ICDH Conference!
+
+Md Khairul Islam is Aacepted through the AAAI Doctoral Consortium Track for: Temporal Dependencies and Spatio-Temporal Patterns of Time Series Models!
+
+Md Khairul Islam is accepted through the AAAI Undergraduate Consortium for: Validation, Robustness, and Accuracy of Perturbation-Based Sensitivity Analysis Methods for Time-Series Deep Learning Models!
+
+Md Khairul Islam, Yingzheng Liu, Andrej Erkelens, Nick Daniello, and Judy Fox are accepted to the 2023 IEEE ICDH Conference and archived in IEEE Xplore for: Interpreting County-Level COVID-19 Infections using Transformer and Deep Learning Time Series Models in IEEE Library!
