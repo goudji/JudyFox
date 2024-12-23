@@ -2,6 +2,7 @@
 title: "SalsaDPI"
 excerpt: "Reproducible environment on public or private clouds<br/><img src='/JudyFox/images/salsa.png' width='300' height='200'>"
 collection: portfolio
+order: 10
 ---
 
  <img src='/JudyFox/images/salsa.png' width='300' height='200'>

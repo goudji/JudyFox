@@ -2,6 +2,7 @@
 title: "MapReduceRoles for Azure"
 excerpt: "Distributed decentralized MapReduce runtime for Windows Azure<br/><img src='/JudyFox/images/code.png' width='300' height='200'>"
 collection: portfolio
+order: 9
 ---
 
 <img src='/JudyFox/images/code.png' width='300' height='200'>

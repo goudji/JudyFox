@@ -2,6 +2,7 @@
 title: "NEC Vector Engine"
 excerpt: "Leverage the leading-edge vector technology of SX-Aurora TSUBASA<br/><img src='/JudyFox/images/NECimg.png' width='300' height='200'>"
 collection: portfolio
+order: 6
 ---
 <img src='/JudyFox/images/NECimg.png' width='300' height='200'>
 

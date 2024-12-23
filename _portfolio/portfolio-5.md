@@ -2,6 +2,7 @@
 title: "Plot4Viz"
 excerpt: "A cross-platform tool for visualizing large and high-dimensional data.<br/><img src='/JudyFox/images/plotvizimg.png' width='300' height='200'>"
 collection: portfolio
+order: 5
 ---
 
 <img src='/JudyFox/images/plotvizimg.png' width='300' height='200'>

@@ -49,11 +49,11 @@ redirect_from:
 
 .collaborator-name {
     font-weight: bold;
-    font-size: 1.5em;
+    font-size: 1.0em;
 }
 
 .collaborator-details {
-    font-size: 1.2em;
+    font-size: 1.0em;
     color: #666;
 }
 

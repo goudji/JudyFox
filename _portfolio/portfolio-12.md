@@ -2,6 +2,7 @@
 title: "Million Sequence Clustering"
 excerpt: "Find clusters for large sequence sets with around million sequences<br/><img src='/JudyFox/images/seq.png' width='300' height='200'>"
 collection: portfolio
+order: 12
 ---
 
 <img src='/JudyFox/images/seq.png' width='300' height='200'>

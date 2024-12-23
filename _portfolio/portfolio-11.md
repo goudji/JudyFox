@@ -2,6 +2,7 @@
 title: "Salsa Digital Library"
 excerpt: "A functional public web service<br/><img src='/JudyFox/images/library.png' width='300' height='200'>"
 collection: portfolio
+order: 11
 ---
 
 <img src='/JudyFox/images/library.png' width='300' height='200'>

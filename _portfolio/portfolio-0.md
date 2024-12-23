@@ -2,6 +2,7 @@
 title: "IndyCar"
 excerpt: "Real-time anomaly detection from edge to HPC-cloud in collaboration with Indycar and Intel.<br/><img src='/JudyFox/images/indycarimage.png' width='300' height='200'>"
 collection: portfolio
+order: 0
 ---
 
 **Rank Forecasting**

@@ -2,6 +2,7 @@
 title: "Twister"
 excerpt: "Iterative Map-Reduce for parallel and scientific computing.<br/><img src='/JudyFox/images/Twister.png' width='300' height='200'>"
 collection: portfolio
+order: 2
 ---
 <img src='/JudyFox/images/twisterimage1.png' width='300' height='200'>
 

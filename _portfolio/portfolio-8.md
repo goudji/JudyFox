@@ -2,6 +2,7 @@
 title: "Intel High Performance Data Analytics"
 excerpt: "Innovative convergence solutions in high performance data analytics and simulation software development using Intel architecture.<br/><img src='/JudyFox/images/intel1.png' width='300' height='200'>"
 collection: portfolio
+order: 8
 ---
 
 <img src='/JudyFox/images/code.png' width='300' height='200'>

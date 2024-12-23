@@ -2,6 +2,7 @@
 title: "SGX-based Big-Data Analytics Frameworks"
 excerpt: "Scalable big-data analytics frameworks over the SGX TEE to support iterative, MPI-based cluster computing<br/><img src='/JudyFox/images/SGX.png' width='300' height='200'>"
 collection: portfolio
+order: 7
 ---
 
 <img src='/JudyFox/images/SGX.png' width='300' height='200'>

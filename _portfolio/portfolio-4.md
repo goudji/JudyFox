@@ -2,6 +2,7 @@
 title: "IndexedHBase"
 excerpt: "Customizable indexing framework to support fast queries and analysis of interesting data subsets<br/><img src='/JudyFox/images/indexbase.png' width='300' height='200'>"
 collection: portfolio
+order: 4
 ---
 
 <img src='/JudyFox/images/indexbase.png' width='300' height='200'>

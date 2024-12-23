@@ -2,6 +2,7 @@
 title: "Twister4Azure"
 excerpt: "Decentralized Iterative MapReduce For Windows Azure Cloud<br/><img src='/JudyFox/images/azureimage1.png' width='300' height='200'>"
 collection: portfolio
+order: 3
 ---
 <img src='/JudyFox/images/azureimage1.png' width='300' height='200'>
 

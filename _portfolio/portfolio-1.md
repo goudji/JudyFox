@@ -2,6 +2,7 @@
 title: "Harp"
 excerpt: "High Performance Machine Learning tools for achieving your goals faster.<br/><img src='/JudyFox/images/Harpimage.png' width='300' height='200'>"
 collection: portfolio
+order: 1
 ---
 
 <img src='/JudyFox/images/Harpimage.png' width='300' height='200'>
