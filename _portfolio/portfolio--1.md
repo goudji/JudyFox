@@ -1,12 +1,14 @@
 ---
-title: "Interpreting County Level COVID-19 Infection and
-Feature Sensitivity using DL Time Series Models"
-excerpt: "funded by NSF Expedition grant.<br/><img src='/JudyFox/images/covid.png' width='300' height='200'>"
+title: "Covid Prediction"
+excerpt: "Interpreting County Level COVID-19 Infection and
+Feature Sensitivity using DL Time Series Models<br/><img src='/JudyFox/images/covid.png' width='300' height='200'>"
 collection: portfolio
 order: 0
 ---
 
 <img src='/JudyFox/images/covid.png' width='300' height='200'>
+
+Funded by NSF Expedition grant
 
 [Github](https://github.com/Data-ScienceHub/gpce-covid)
 
