@@ -6,7 +6,6 @@ redirect_from:
   - "/pubs/"
   - "/publications"
 ---
-## 2024
 Large Language Models for Financial Aid in Financial Time-series Forecasting
 IEEE Big Data International Workshop on Large Language Models for Finance, Washington DC, USA, December 2024 [Link](https://arxiv.org/abs/2410.19025) 
 
@@ -16,12 +15,10 @@ Interpreting Time Series Transformer Models and Sensitivity Analysis of Populati
 
 Validation, Robustness, and Accuracy of Perturbation-based Sensitivity Analysis Methods for Time-Series Deep Learning Models, AAAI-24 Undergraduate Consortium, Vancouver, Canada, February 2024 [Link](https://arxiv.org/abs/2401.16521)
 
-## 2023
 Interpreting County-Level COVID 19 Infections using Transformer and Deep Learning Time Series Models, IEEE International Conference on Digital Health (ICDH), July 2023 [Link](https://ieeexplore.ieee.org/abstract/document/10224685)
 
 Opportunities for enhancing MLCommons efforts while leveraging insights from educational MLCommons earthquake benchmarks efforts, Journal of Frontiers in High-Performance Computing, October 2023 [Link](https://par.nsf.gov/biblio/10473591)
 
-## 2019
 L. Chen, J. Li, C. Sahinalp, M. Marathe, A. Vullikanti, A. Nikolaev, E. Smirnov, R. Israfilov, and J. Qiu, “Subgraph2Vec: Highly-vectorized tree-like subgraph counting,” in 2019 IEEE International Conference on Big Data, IEEE, 2019. [Link](https://arxiv.org/pdf/2009.11665)
 
 J. Li, F. Wang, T. Araki and J. Qiu, “Generalized Sparse Matrix-Matrix Multiplication for Vector Engines and Graph Applications,” in MCHPC’19: Workshop on Memory Centric High Performance Computing, ACM, 2019. [Link](https://ieeexplore.ieee.org/document/8946127)
@@ -32,12 +29,10 @@ B. Peng, L. Chen, J. Li, M. Jiang, S. Akkas, E. Smirnov, R. Israfilov, S. Khekhn
 
 G. Fox, J. A. Glazier, J. Kadupitiya, V. Jadhao, M. Kim, J. Qiu, J. P.Sluka, E. Somogyi, M. Marathe, A. Adiga, et al., “Learning everywhere : Pervasive machine learning for effective high-performance computation,” in 2019 HPCDC workshop of IPDPS conference, pp. 422–429, 2019. [Link](https://www.computer.org/csdl/proceedings-article/ipdpsw/2019/555500a422/1c2bEFr988E)
 
-## 2018
 M. Marathe, L. Jiang, and J. Qiu, “High-performance massive subgraph counting using pipelined adaptive-group communication,” Big Data and HPC: Ecosystem and Convergence, vol. 33, p. 173, 2018. [Link](https://arxiv.org/abs/1804.09764)
 
 L. Jiang, L. Chen, and J. Qiu, “Performance characterization of multi-threaded graph processing applications on many-integrated-core architecture,” in 2018 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), pp. 199–208, IEEE, 2018. [Link](https://arxiv.org/abs/1708.04701)
 
-## 2017
 Z. Zhao, L. Chen, M. Avram, M. Li, G. Wang, A. Butt, M. Khan, M. Marathe, J. Qiu, and A. Vullikanti, “Finding and counting tree-like subgraphs using mapreduce,” IEEE Transactions on Multi-Scale Computing Systems, vol. 4, no. 3, pp. 217–230, 2017. [Link](https://infomall.org/publications/tmscssi_2017_harp_sahad.pdf)
 
 B. Zhang, B. Peng, and J. Qiu, “Parallelizing big data machine learning applications with model rotation,” New Frontiers in High Performance Computing and Big Data, vol. 30, p. 199, 2017. [Link](https://infomall.org/pubs/JudyFox/Books/Parallelizing%20Big%20Data%20Machine%20Learning%20Applications%20with%20Model%20Rotation.pdf)
@@ -48,7 +43,6 @@ J. Qiu, S. Kamburugamuve, H. Lee, J. Mitchell, R. Caldwell, G. Bullock, and L. H
 
 L. Chen, B. Peng, B. Zhang, T. Liu, Y. Zou, L. Jiang, R. Henschel, C. Stewart, Z. Zhang, E. Mccallum, et al., “Benchmarking Harp-DAAL: High Performance Hadoop on KNL clusters,” in 2017 IEEE 10th International Conference on Cloud Computing (CLOUD), pp. 82–89, IEEE, 2017. [Link](https://ieeexplore.ieee.org/document/8030575)
 
-## 2016
 C. A. Davis, G. L. Ciampaglia, L. M. Aiello, K. Chung, M. D. Conover, E. Ferrara, A. Flammini, G. C. Fox, X. Gao, B. Gon¸calves, et al., “Osome: the IUNI observatory on social media,” PeerJ Computer Science, vol. 2, p. e87, 2016. [Link](https://peerj.com/articles/cs-87/)
 
 T. Wu, B. Zhang, C. Davis, E. Ferrara, A. Flammini, F. Menczer, J. Qiu, M. Thai, H. Xiong, and W. Wu, “Scalable query and analysis for social networks: an integrated high-level dataflow system with Pig and Harp,” Big data in complex and social networks, 2016. [Link](https://www.academia.edu/98223739/Scalable_Query_and_Analysis_for_Social_Networks_An_Integrated_High_Level_Dataflow_System_with_Pig_and_Harp)
@@ -57,7 +51,6 @@ B. Zhang, B. Peng, and J. Qiu, “Model-Centric Computation Abstractions in Mach
 
 B. Zhang, B. Peng, and J. Qiu, “High performance LDA through Collective Model Communication Optimization,” Procedia Computer Science, vol. 80, pp. 86–97, 2016. [Link](https://www.sciencedirect.com/science/article/pii/S1877050916306512)
 
-## 2015
 G. Fox, J. Qiu, S. Jha, S. Ekanayake, and S. Kamburugamuve, “Big data, Simulations and HPC Convergence,” in Big Data Benchmarking, pp. 3–17, Springer, 2015. [Link](https://www.researchgate.net/publication/311253600_Big_Data_Simulations_and_HPC_Convergence)
 
 G. Fox, S. Jha, J. Qiu, S Ekanazake, A. Luckow, “Towards a comprehensive set of big data benchmarks”, in Big Data and High Performance Computing, pp. 47-66, IOS Press, 2015. [Link](https://www.researchgate.net/publication/283469883_Towards_a_comprehensive_set_of_big_data_benchmarks)
@@ -68,7 +61,6 @@ G. Fox, J. Qiu, S. Kamburugamuve, S. Jha, A. Luckow, “HPC-ABDS High Performanc
 
 X. Gao, E. Ferrara, and J. Qiu, “Parallel Clustering of High-Dimensional Social Media Data Streams,” in 2015 15th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing, pp. 323–332, IEEE, 2015. [Link](https://ieeexplore.ieee.org/document/7152498)
 
-## 2014
 X. Li and J. Qiu, Cloud computing for data-intensive applications, vol. 1. Springer, 2014. [Link](https://link.springer.com/book/10.1007/978-1-4939-1905-5)
 
 X. Gao, E. Roth, K. McKelvey, C. Davis, A. Younge, E. Ferrara, F. Menczer, and J. Qiu, “Supporting a social media observatory with customizable index structures: architecture and performance,” in Cloud Computing for Data-Intensive Applications, pp. 401–427, Springer, 2014. [Link](https://link.springer.com/chapter/10.1007/978-1-4939-1905-5_17)
@@ -87,7 +79,6 @@ G. C. Fox, S. Jha, J. Qiu, and A. Luckow, “Towards an understanding of facets 
 
 X. Gao and J. Qiu, “Supporting end-to-end social media data analysis with the IndexedHbase platform,” in Proceedings of the 6th workshop on many- task computing on clouds, grids, and supercomputers (MTAGS) at SC13, Citeseer, 2013. [Link](https://www.researchgate.net/publication/262766962_Social_Media_Data_Analysis_with_IndexedHBase_and_Iterative_MapReduce)
 
-## 2013
 T. Gunarathne, B. Zhang, T.-L. Wu, and J. Qiu, “Scalable parallel computing on clouds using twister4azure iterative Mapreduce,” Future Generation Computer Systems, vol. 29, no. 4, pp. 1035–1048, 2013. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0167739X12001379)
 
 ​J. Q. B. Zhang, “Mammoth data in the cloud: clustering social images,” Cloud computing and big data, vol. 23, p. 231, 2013. [Link](https://infomall.org/publications/MammothDataintheCloudClusteringSocialImages.pdf)
@@ -96,7 +87,6 @@ T. Gunarathne, B. Zhang, T.-L. Wu, and J. Qiu, “Scalable parallel computing on
 
 ​B. Zhang and J. Qiu, “High performance clustering of social images in a map-collective programming model,” in Proceedings of the 4th annual Symposium on Cloud Computing, p. 44, ACM, 2013. [Link](https://cgl.soic.indiana.edu/publications/116-zhang.pdf)
 
-## 2012
 ​J. Qiu, J. Ekanayake, T. Gunarathne, J. Y. Choi, S.-H. Bae, Y. Ruan, S. Ekanayake, S. Wu, S. Beason, G. Fox, et al., “Data intensive computing for bioinformatics,” in Data Intensive Distributed Computing: Challenges and Solutions for Large-scale Information Management, pp. 207–241, IGI Global, 2012. [Link](https://www.igi-global.com/chapter/data-intensive-computing-bioinformatics/62829)
 
 S. E. Abdelhamid, R. Alo, S. Arifuzzaman, P. Beckman, M. H. Bhuiyan, K. Bisset, E. A. Fox, G. C. Fox, K. Hall, S. S. Hasan, J. Qiu, et al., “CINET:  A cyberinfrastructure for Network Science,” in 2012 IEEE 8th International Conference on E-Science, pp. 1–8, IEEE, 2012. [Link](https://www.albany.edu/~ravi/pdfs/CINET_paper_2012.pdf)
@@ -115,7 +105,6 @@ H. Li, G. Fox, and J. Qiu, “Performance model for parallel matrix multiplicati
 
 Y. Ruan, S. Ekanayake, M. Rho, H. Tang, S.-H. Bae, J. Qiu, and G. Fox, “Dacidr: deterministic annealed clustering with interpolative dimension reduction using a large collection of 16s RNA sequences,” in Proceedings of the ACM Conference on Bioinformatics, Computational Biology and Biomedicine, pp. 329–336, ACM, 2012. [Link](https://www.researchgate.net/publication/262396796_DACIDR_Deterministic_annealed_clustering_with_interpolative_dimension_reduction_using_a_large_collection_of_16S_rRNA_sequences)
 
-## 2011
 J. Y. Choi, S.-H. Bae, J. Qiu, B. Chen, and D. Wild, “Browsing large-scale cheminformatics data with dimension reduction,” Concurrency and Computation: Practice and Experience, vol. 23, no. 17, pp. 2315–2325, 2011. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.1781)
 
 T. Gunarathne, B. Zhang, T.-L. Wu, and J. Qiu, “Portable parallel programming on cloud and HPC: Scientific applications of twister4azure,” in 2011 Fourth IEEE International Conference on Utility and Cloud Computing, pp. 97–104, IEEE, 2011. [Link](https://ieeexplore.ieee.org/document/6123486)
@@ -130,7 +119,6 @@ T. Gunarathne, T.-L. Wu, J. Y. Choi, S.-H. Bae, and J. Qiu, “Cloud Computing p
 
 J. Y. Choi, S.-H. Bae, J. Qiu, B. Chen, and D. Wild, “Browsing large-scale cheminformatics data with dimension reduction,” Concurrency and Computation: Practice and Experience, vol. 23, no. 17, pp. 2315–2325, 2011. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.1781)
 
-## 2010
 ​J. Qiu, J. Ekanayake, T. Gunarathne, J. Y. Choi, S.-H. Bae, H. Li, B. Zhang, T.-L. Wu, Y. Ruan, S. Ekanayake, et al., “Hybrid cloud and cluster computing paradigms for life science applications,” in BMC Bioinformatics, vol. 11, p. S3, BioMed Central, 2010. [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC3040529/)
 
 J. Qiu, S. Beason, S.-H. Bae, S. Ekanayake, and G. Fox, “Performance of windows multicore systems on threading and MPI,” in 2010 10th IEEE/ACM International Conference on Cluster, Cloud and Grid Computing, pp. 814–819, IEEE, 2010. [Link](https://ieeexplore.ieee.org/document/5493377)
@@ -151,7 +139,6 @@ T. Gunarathne, T.-L. Wu, J. Qiu, and G. Fox, “Mapreduce in the clouds for scie
 
 S.-H. Bae, J. Y. Choi, J. Qiu, and G. C. Fox, “Dimension reduction and visualization of large high-dimensional data via interpolation,” in Proceedings of the 19th ACM international symposium on high performance distributed computing, pp. 203–214, ACM, 2010. [Link](https://dl.acm.org/doi/10.1145/1851476.1851501)
 
-## 2009
 J. Ekanayake and G. Fox, “High performance parallel computing with clouds and cloud technologies,” in International Conference on Cloud Computing, pp. 20–38, Springer, 2009. [Link](https://link.springer.com/chapter/10.1007/978-3-642-12636-9_2)
 
 G. Fox, S.-H. Bae, J. Ekanayake, X. Qiu, and H. Yuan, “Parallel Data Mining from Multicore to Cloudy Grids,” in High Performance Computing Workshop, vol. 18, pp. 311–340, 2009. [Link](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=85c09ddc30e1050d5f78bd6d7974c30ce03afac6)
@@ -160,25 +147,20 @@ X. Qiu, J. Ekanayake, S. Beason, T. Gunarathne, G. Fox, R. Barga, and D. Gannon,
 
 G. Fox, X. Qiu, S. Beason, J. Choi, J. Ekanayake, T. Gunarathne, M. Rho, H. Tang, N. Devadasan, and G. Liu, “Biomedical case studies in data intensive computing,” in IEEE International Conference on Cloud Computing, pp. 2–18, Springer, 2009. [Link](https://link.springer.com/chapter/10.1007/978-3-642-10665-1_2)
 
-## 2008
 ​X. Qiu, G. Fox, H. Yuan, S.-H. Bae, G. Chrysanthakopoulos, and H. Nielsen, “Parallel data mining on multicore clusters,” in 2008 Seventh International Conference on Grid and Cooperative Computing, pp. 41–49, IEEE, 2008. [Link](https://ieeexplore.ieee.org/document/4662841)
 
 X. Qiu, G. C. Fox, H. Yuan, S.-H. Bae, G. Chrysanthakopoulos, and H. F. Nielsen, “Performance of multicore systems on parallel data clustering with deterministic annealing,” in International Conference on Computational Science, pp. 407–416, Springer, 2008. [Link](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=e159225d486fd1cd916f05180b3f6191a2a7f3e1)
 
 X. Qiu, G. C. Fox, H. Yuan, S.-H. Bae, G. Chrysanthakopoulos, and H. F. Nielsen, “Parallel clustering and dimensional scaling on multicore systems,” HIGH PERFORMANCE COMPUTING & SIMULATION (HPCS 2008), p. 67, 2008. [Link](https://link.springer.com/chapter/10.1007/978-3-540-69384-0_46)
 
-## 2007
 X. Qiu, G. C. Fox, H. Yuan, S.-H. Bae, G. Chrysanthakopoulos, and H. F. Nielsen, “High performance multi-paradigm messaging runtime integrating grids and multicore systems,” in Third IEEE International Conference on e-Science and Grid Computing (e-Science 2007), pp. 407–414, IEEE, 2007. [Link](https://ieeexplore.ieee.org/document/4426913)
 
-## 2006
 X. Qiu and A. Jooloor, “Web service architecture for e-learning,” Journal of Systemics, Cybernetics and Informatics, vol. 3, no. 5, pp. 92–101, 2006. [Link](https://www.iiisci.org/journal/pdv/sci/pdfs/P371402.pdf)
 
-## 2004
 ​X. Qiu, S. Pallickara, and A. Uyar, “Making SVG a Web Service in a Message-based MVC Architecture,” 2004. [Link](https://surface.syr.edu/cgi/viewcontent.cgi?article=1121&context=eecs)
 
 X. Qiu, “Building desktop applications with web services in a Message-based MVC paradigm,” in Proceedings. IEEE International Conference on Web Services, pp. 765–768, IEEE, 2004. [Link](https://ieeexplore.ieee.org/document/1314812)
 
-## 2003
 G. Fox, D. Gannon, S.-H. Ko, S. Pallickara, X. Qiu, and A. Uyar, “Peer- to-Peer Grids,” 2003. [Link](https://surface.syr.edu/cgi/viewcontent.cgi?article=1163&context=eecs)
 
 X. Qiu, B. Carpenter, and G. C. Fox, “Collaborative SVG as a web service,” in SVG Open 2003 Conference and Exhibition, Vancouver, Canada, 2003. [Link](https://www.academia.edu/15752747/Collaborative_SVG_as_a_web_service)
@@ -187,5 +169,4 @@ X. Qiu, B. Carpenter, G. C. Fox, et al., “Internet collaboration using the w3c
 
 G. Fox, H. Bulut, K. Kim, S.-H. Ko, S. Lee, S. Oh, S. Pallickara, X. Qiu, A. Uyar, M. Wang, et al., “Collaborative Web Services and Peer-to-Peer Grids,” SIMULATION SERIES, vol. 35, no. 1, pp. 3–12, 2003. [Link](https://www.academia.edu/38078583/Collaborative_web_services_and_peer_to_peer_Grids)
 
-## ​2002
 G. Fox, S.-H. Ko, M. Pierce, O. Balsoy, J. Kim, S. Lee, K. Kim, S. Oh, X. Rao, M. Varank, X. Qiu, et al., “Grid services for earthquake science,” Concurrency and Computation: Practice and Experience, vol. 14, no. 6-7, pp. 371–393, 2002. [Link](https://www.researchgate.net/publication/227659945_Grid_services_for_earthquake_science)

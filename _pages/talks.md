@@ -4,7 +4,6 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
-## 2018
 Real-Time Anomaly Detection from Edge to HPC-Cloud
 Big Data and Extreme-Scale Computing 2 Workshop (BDEC2), Bloomington, Indiana. November 28-30, 2018.
 
@@ -17,32 +16,27 @@ Workshop on Clusters and Computational Data for Scientific Computing (CCDSC), Ly
 High-Performance Big Data Computing with Harp-DAAL
 HPC 2018 Workshop, July 2-6, 2018, Cetraro, Italy.
 
-## 2017
 SC17 Invited Talk by Judy Qiu on “Harp-DAAL: A Next Generation Platform for High Performance Machine Learning on HPC-Cloud”
 November 15, 2017, Denver, Colorado.
 
-## 2016
 Convergence of HPC and Clouds for Large-Scale Data Enabled Science
 July 26-31, 2016, Cetraro, Italy.
 
 Convergence of HPC and Clouds for Large-Scale Data Enabled Science
 UIUC/NCSA, March 13, 2016.
 
-## 2015
 Date-enabled Science and Engineering: Scalable High Performance Data Analytics
 CS Colloquium at Indiana University, August 28, 2015.
 
 Towards HPC-ABDS: An Initial High-Performance Big Data Stack
 Seminar talk at Virginia Tech, July 9, 2015.
 
-## 2014
 Harp: Collective Communication on Hadoop
 Invited talk at Computer and Information Science Department Seminar, IUPUI, November 7, 2014.
 
 Harp: Collective Communication on Hadoop
 Invited talk at High Performance Computing – From Clouds and Big Data to Exascale and Beyond Workshop (HPC 2014), July 7~11, 2014, Cetraro, Italy.
 
-## 2013
 Supporting End-to-End Social Media Data Analysis with the IndexedHBase Platform
 Invited talk at 6th Workshop on Many-Task Computing on Clouds, Grids, and Supercomputers (MTAGS) 2013, November 17, 2013 at SC13.
 
@@ -52,7 +46,6 @@ ECE Colloquium at RUTGERS University, October 10, 2013.
 Clustering Social Images in the Cloud
 Invited talk, Trends in High Performance Distributed Computing Workshop (Trends-HPDC-2013), Rutgers University, March 12, 2013.
 
-## 2012
 Portable Data Mining on Azure and HPC Platforms
 Invited talk (Cloud Challenge Award), 5th Workshop on Many-Task Computing on Grids and Supercomputers (MTAGS) of SC12, Salt Lake City, November 12, 2012.
 
@@ -62,7 +55,6 @@ Invited talk, An International Advanced Workshop (HPC2012), Cetraro – Italy, J
 Twister4Azure: Parallel Data Analytics on Azure
 Invited talk, Microsoft Research Cloud Future Workshop 2012, UC Berkeley, California, May 7-8, 2012.
 
-## 2011
 Iterative MapReduce enabling HPC-Cloud Interoperability
 Invited talk, Department of Computer Science, Illinois Institute of Technology, Chicago, Illinois, November 4, 2011.
 
@@ -84,7 +76,6 @@ Invited talk for Computer Science Department Colloquium, University of Alabama, 
 Applying Twister for Scientific Applications
 Invited talk in NSF Cloud PI Workshop, Waterview Conference Center, Arlington, Virginia, March 17, 2011.
 
-## 2010
 Analyzing large-scale cheminformatics and chemogenomics datasets through dimension reduction
 Invited talk in the workshop of Charting Chemical Space: Challenges and Opportunities for AI and Machine Learning at Neural Information Processing Systems Foundation Conference (NIPS 2010), Vancouver, B.C., Canada, December 10-11, 2010.
 
@@ -94,7 +85,6 @@ Invited talk in the 2th Workshop on “Frontiers of Multicore Computing” (FMC 
 Cloud Technologies and Their Applications
 Keynote talk in the 5th International Workshop on Content Delivery Networks (CDN) at the 10th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing Conference (CCGrid), Melbourne, Australia. May 17, 2010.
 
-## 2009
 Using MapReduce Technologies in Bioinformatics and Medical Informatics
 Invited talk in Using clouds for parallel computations in systems biology Workshop (part of DoE Knowledgebase in Systems Biology) at SuperComputing 09 Conference. Portland, Oregon. November 16, 2009.
 
