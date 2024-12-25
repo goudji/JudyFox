@@ -1,11 +1,11 @@
 ---
 title: "Intel High Performance Data Analytics"
-excerpt: "Innovative convergence solutions in high performance data analytics and simulation software development using Intel architecture.<br/><img src='/JudyFox/images/intel1.png' width='300' height='200'>"
+excerpt: "Innovative convergence solutions in high performance data analytics and simulation software development using Intel architecture.<br/><img src='/JudyFox/images/intel1.png' width='100' height='75'>"
 collection: portfolio
 order: 8
 ---
 
-<img src='/JudyFox/images/code.png' width='300' height='200'>
+<img src='/JudyFox/images/code.png' width='100' height='75'>
 
 [GitHub](https://github.com/DSC-SPIDAL/harp/tree/subgraph2vec)
 

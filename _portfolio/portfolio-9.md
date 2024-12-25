@@ -1,11 +1,11 @@
 ---
 title: "MapReduceRoles for Azure"
-excerpt: "Distributed decentralized MapReduce runtime for Windows Azure<br/><img src='/JudyFox/images/code.png' width='300' height='200'>"
+excerpt: "Distributed decentralized MapReduce runtime for Windows Azure<br/><img src='/JudyFox/images/code.png' width='100' height='75'>"
 collection: portfolio
 order: 9
 ---
 
-<img src='/JudyFox/images/code.png' width='300' height='200'>
+<img src='/JudyFox/images/code.png' width='100' height='75'>
 
 MapReduceRoles4Azure is a distributed decentralized MapReduce runtime for Windows Azure that was developed using Azure cloud infrastructure services.
 

@@ -1,11 +1,11 @@
 ---
 title: "Plot4Viz"
-excerpt: "A cross-platform tool for visualizing large and high-dimensional data.<br/><img src='/JudyFox/images/plotvizimg.png' width='300' height='200'>"
+excerpt: "A cross-platform tool for visualizing large and high-dimensional data.<br/><img src='/JudyFox/images/plotvizimg.png' width='100' height='75'>"
 collection: portfolio
 order: 5
 ---
 
-<img src='/JudyFox/images/plotvizimg.png' width='300' height='200'>
+<img src='/JudyFox/images/plotvizimg.png' width='100' height='75'>
 
 PlotViz is a 3D data point browser that visualizes large volume of 2- or 3-dimensional data as points in a virtual space on a computer screen and enable users to explore the virtual space interactively.
 

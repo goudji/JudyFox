@@ -15,6 +15,9 @@ Interpreting Time Series Transformer Models and Sensitivity Analysis of Populati
 
 Validation, Robustness, and Accuracy of Perturbation-based Sensitivity Analysis Methods for Time-Series Deep Learning Models, AAAI-24 Undergraduate Consortium, Vancouver, Canada, February 2024 [Link](https://arxiv.org/abs/2401.16521)
 
+<details>
+<summary><strong>Publications before 2024 (Click to expand)</strong></summary>
+
 Interpreting County-Level COVID 19 Infections using Transformer and Deep Learning Time Series Models, IEEE International Conference on Digital Health (ICDH), July 2023 [Link](https://ieeexplore.ieee.org/abstract/document/10224685)
 
 Opportunities for enhancing MLCommons efforts while leveraging insights from educational MLCommons earthquake benchmarks efforts, Journal of Frontiers in High-Performance Computing, October 2023 [Link](https://par.nsf.gov/biblio/10473591)
@@ -170,3 +173,4 @@ X. Qiu, B. Carpenter, G. C. Fox, et al., “Internet collaboration using the w3c
 G. Fox, H. Bulut, K. Kim, S.-H. Ko, S. Lee, S. Oh, S. Pallickara, X. Qiu, A. Uyar, M. Wang, et al., “Collaborative Web Services and Peer-to-Peer Grids,” SIMULATION SERIES, vol. 35, no. 1, pp. 3–12, 2003. [Link](https://www.academia.edu/38078583/Collaborative_web_services_and_peer_to_peer_Grids)
 
 G. Fox, S.-H. Ko, M. Pierce, O. Balsoy, J. Kim, S. Lee, K. Kim, S. Oh, X. Rao, M. Varank, X. Qiu, et al., “Grid services for earthquake science,” Concurrency and Computation: Practice and Experience, vol. 14, no. 6-7, pp. 371–393, 2002. [Link](https://www.researchgate.net/publication/227659945_Grid_services_for_earthquake_science)
+</details>

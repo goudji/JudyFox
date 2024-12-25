@@ -1,12 +1,12 @@
 ---
 title: "Covid Prediction"
 excerpt: "Interpreting County Level COVID-19 Infection and
-Feature Sensitivity using DL Time Series Models<br/><img src='/JudyFox/images/covid.png' width='300' height='200'>"
+Feature Sensitivity using DL Time Series Models<br/><img src='/JudyFox/images/covid.png' width='100' height='75'>"
 collection: portfolio
 order: 0
 ---
 
-<img src='/JudyFox/images/covid.png' width='300' height='200'>
+<img src='/JudyFox/images/covid.png' width='100' height='75'>
 
 Funded by NSF Expedition grant
 

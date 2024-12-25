@@ -1,11 +1,11 @@
 ---
 title: "Harp"
-excerpt: "High Performance Machine Learning tools for achieving your goals faster.<br/><img src='/JudyFox/images/Harpimage.png' width='300' height='200'>"
+excerpt: "High Performance Machine Learning tools for achieving your goals faster.<br/><img src='/JudyFox/images/Harpimage.png' width='100' height='75'>"
 collection: portfolio
 order: 1
 ---
 
-<img src='/JudyFox/images/Harpimage.png' width='300' height='200'>
+<img src='/JudyFox/images/Harpimage.png' width='100' height='75'>
 
 [Website](https://dsc-spidal.github.io/harp/) [GitHub](https://github.com/DSC-SPIDAL/harp)
 ## Introduction
