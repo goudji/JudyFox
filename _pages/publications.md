@@ -6,6 +6,7 @@ redirect_from:
   - "/pubs/"
   - "/publications"
 ---
+<p>WinTSR: A Windowed Temporal Saliency Rescaling Method for Interpreting Time Series Deep Learning Models, AAAI'25 Workshop: AI for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS), December 2024 <a href="https://arxiv.org/abs/2412.04532">Link</a></p>
 <p>Large Language Models for Financial Aid in Financial Time-series Forecasting
 IEEE Big Data International Workshop on Large Language Models for Finance, Washington DC, USA, December 2024 <a href="https://arxiv.org/abs/2410.19025">Link</a> </p>
 <p>Temporal Dependencies and Spatio-Temporal Patterns of Time Series Models, The 38th Annual AAAI Conference on Artificial Intelligence (AAAI-24), Vancouver, Canada, February 2024 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30396">Link</a></p>
@@ -15,8 +16,15 @@ IEEE Big Data International Workshop on Large Language Models for Finance, Washi
 <details>
 <summary><strong>Past Publications (Click to expand)</strong></summary>
 
-<p>Interpreting County-Level COVID 19 Infections using Transformer and Deep Learning Time Series Models, IEEE International Conference on Digital Health (ICDH), July 2023 <a href="https://ieeexplore.ieee.org/abstract/document/10224685">Link</a></p>
+
 <p>Opportunities for enhancing MLCommons efforts while leveraging insights from educational MLCommons earthquake benchmarks efforts, Journal of Frontiers in High-Performance Computing, October 2023 <a href="https://par.nsf.gov/biblio/10473591">Link</a></p>
+<p>Fairness and Privacy in Federated Learning and Their Implications in Healthcare, arXiv preprint, August 2023 <a href="https://arxiv.org/abs/2308.07805">Link</a></p>
+<p>Interpreting County-Level COVID 19 Infections using Transformer and Deep Learning Time Series Models, IEEE International Conference on Digital Health (ICDH), July 2023 <a href="https://ieeexplore.ieee.org/abstract/document/10224685">Link</a></p>
+<p>Does Differential Privacy Impact Bias in Pretrained NLP Models?, The Fourth AAAI Workshop on Privacy-Preserving Artificial Intelligence (PPAI-23), February 2023 <a href="https://arxiv.org/abs/2410.18749#:~:text=Differentially%20private%20training%20can%20increase,the%20rest%20of%20the%20population.">Link</a></p>
+<p>Intel Optane DCPMM and Serverless Computing, arXiv preprint, September 2021 <a href="https://arxiv.org/abs/2109.11021">Link</a></p>
+<p>HySec-Flow: Privacy-Preserving Genomic Computing with SGX-based Big-Data Analytics Framework, IEEE 14th International Conference on Cloud Computing (CLOUD), September 2021 <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9165173/">Link</a></p>
+<p>Rank Position Forecasting in Car Racing, IEEE International Parallel and Distributed Processing Symposium (IPDPS), May 2021 <a href="https://ieeexplore.ieee.org/document/9460538">Link</a></p>
+<p>net.science: A cyberinfrastructure for sustained innovation in network science and engineering, Gateways Conference 2020, October 2020 <a href="https://par.nsf.gov/biblio/10199455">Link</a></p>
 <p>L. Chen, J. Li, C. Sahinalp, M. Marathe, A. Vullikanti, A. Nikolaev, E. Smirnov, R. Israfilov, and J. Qiu, “Subgraph2Vec: Highly-vectorized tree-like subgraph counting,” in 2019 IEEE International Conference on Big Data, IEEE, 2019. <a href="https://arxiv.org/pdf/2009.11665">Link</a></p>
 <p>J. Li, F. Wang, T. Araki and J. Qiu, “Generalized Sparse Matrix-Matrix Multiplication for Vector Engines and Graph Applications,” in MCHPC’19: Workshop on Memory Centric High Performance Computing, ACM, 2019. <a href="https://ieeexplore.ieee.org/document/8946127">Link</a></p>
 <p>C. Widanage, J. Li, S. Tyagi, R. Teja, B. Peng, S. Kamburugamuve, D. Baum, D. Smith, J. Qiu, and J. Koskey, “Anomaly detection over streaming data: Indy500 case study,” in 2019 IEEE 12th International Conference on Cloud Computing (CLOUD), pp. 9–16, IEEE, 2019. <a href="https://infomall.org/sites/dsc/ipcc.soic.iu.edu/Anomaly.pdf">Link</a></p>
