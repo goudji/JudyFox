@@ -12,20 +12,32 @@ This is a collaborative project supported by Indiana University and Virginia Pol
 [Website](http://salsahpc.indiana.edu/salsadpi/index.php)
 
 ## Introduction
+### Core Purpose
+- Reproducible cloud environment provider
+- Supports public and private clouds
+- Automates software installation and configuration
+- Enables automated data analysis
 
-A reproducible environment on public or private clouds is very important for any commercial and science executable binaries. Using an automation approach to software installation and configuration management with such an environment, much data analysis can be done automatically. Programmers and scientists can focus on writing their own applications without worrying about the complicated details of software installation and configuration. The learning curve of different software tools and cloud infrastructures can be reduced. salsaDPI is an on-demand dynamic provisioning software that runs on public or private clouds. It has been tested to support user-defined binaries with more than 80 VM instances on the FutureGrid Eucalyptus cloud. This allows one to conveniently access the best features of clouds.
+### Key Features
+- **Environment Management**
+  - Automated settings configuration
+  - Application execution automation
+  - Multiple cloud infrastructure support
+  - Various storage model compatibility
 
-## Features
+- **User Benefits**
+  - Reduced learning curve
+  - Focus on application development
+  - GUI interface via Portal
+  - Executes user-defined binaries
 
-Automates environment settings and application execution
-Supports various cloud infrastructures and storage models
-Executes user-defined binaries and returns results
-GUI interface from Portal to cloud
+### Capabilities
+- Tested with 80+ VM instances
+- Verified on FutureGrid Eucalyptus cloud
+- Returns execution results
+- Convenient cloud feature access
 
-## Tutorial
 
-The tutorial page provides instructions for using this online interface
-
-## Show case: salsaDPI in Science Cloud Summer School 2012
+## Showcase: salsaDPI in Science Cloud Summer School 2012
 
 In the summer of 2012, Indiana University and other 9 university sites hosted a week-long virtual [Science Cloud Summer School](https://sciencecloudsummer2012.tumblr.com/schedule). This conference introduced cloud technologies and science applications to over 200 graduate students and staff participants across the nation. SalsaDPI was used as one of the cloud tools and contributed to a tutorial for reproducible environments. It has the ability to deploy both a single node (sandbox) and a virtual cluster. Also, it automatically executes Hadoop and Twister applications like WordCount and Kmeans after installing the selected software stack. The tutorial is available online. A video example of Hadoop WordCount can be accessed from [Youtube](https://www.youtube.com/watch?feature=player_embedded&v=kWom0lj8qxI) (please view it with video quality of 1080p).

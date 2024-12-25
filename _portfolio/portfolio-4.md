@@ -11,20 +11,30 @@ Customizable indexing framework to support fast queries and analysis of interest
 IndexedHBase can achieve a query evaluation speed that is siginifcantly faster than using the existing indexing techniques provided by commercial NoSQL databases.
 
 [Website](http://salsaproj.indiana.edu/IndexedHBase/index.html)
-
 ## Introduction
+### Core Definition
+- Advanced storage system extending HBase
+- Features customizable indexing framework
+- Focuses on efficient subset data analysis
+- Built on YARN architecture
 
-**What is IndexedHBase?**  
+### Integration Capabilities
+- Compatible with parallel computing platforms:
+  - Hadoop MapReduce
+  - Twister
+- Supports efficient analysis of query results
 
-As data intensive problems evolve, many research projects require efficient analysis of a target subset of data, rather than the whole data set. IndexedHBase is a storage system that extends HBase with a customizable indexing framework to support fast queries and analysis of interesting data subsets. Leveraging an architecture based on YARN, IndexedHBase can be integrated with various parallel computing platforms, such as Hadoop MapReduce and Twister, to complete efficient analysis of the query results.
+### Performance Benefits
+- Significantly faster query evaluation
+  - 10-100 times faster than existing NoSQL solutions
+  - Outperforms commercial databases like Riak
+- Achieves speed through customized index structures
 
-**What can IndexedHBase do?**  
-
-By building index structures that are specially customized for the actual applications, IndexedHBase can achieve a query evaluation speed that is siginifcantly faster (by one to two orders of magnitudes) than using the existing indexing techniques provided by commercial NoSQL databases such as Riak.
-
- 
-
-IndexedHBase has been successfully used in several applications, including Text Indexing (with ClueWeb09), LCIR Synonym Mining, and Social Data Analysis (with Twitter data sets). Please check out our System Design and Publications for more details.
+### Practical Applications
+- Successfully implemented in:
+  - Text Indexing (ClueWeb09)
+  - LCIR Synonym Mining
+  - Social Data Analysis (Twitter datasets)
 
 ## Publications
 

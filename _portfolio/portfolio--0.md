@@ -1,31 +1,39 @@
 ---
 title: "Financial Aid Model for AccessUVA"
-excerpt: "<br/><img src='/JudyFox/images/covid.png' width='100' height='75'>"
+excerpt: "Large Language Models for Financial Aid
+in Financial Time-series Forecasting<br/><img src='/JudyFox/images/line.png' width='100' height='75'>"
 collection: portfolio
 order: 0
 ---
 
-<img src='/JudyFox/images/covid.png' width='100' height='75'>
+<img src='/JudyFox/images/line.png' width='100' height='75'>
 
 ## Introduction
 
-Considering the difficulty of financial time series
-forecasting in financial aid, much of the current research focuses
-on leveraging big data analytics in financial services. One
-modern approach is to utilize ”predictive analysis”, analogous
-to forecasting financial trends. However, many of these time
-series data in Financial Aid (FA) pose unique challenges due
-to limited historical datasets and high dimensional financial
-information, which hinder the development of effective predictive
-models that balance accuracy with efficient runtime and memory
-usage. Pre-trained foundation models are employed to address
-these challenging tasks. We use state-of-the-art time series models
-including pre-trained LLMs (GPT-2 as backbone), transformers,
-and linear models to demonstrate their ability to outperform
-traditional approaches, even with minimal (”few-shot”) or no
-fine-tuning (”zero-shot”). Our benchmark study, which includes
-financial aid with seven other time series tasks, shows the
-potential of using LLMs for scarce financial datasets.
+- Financial time series forecasting in financial aid faces challenges due to limited data and complex trends.
+
+- Big data analytics and *predictive analysis* are key approaches for financial forecasting.
+
+- **Challenges in Financial Aid (FA) time series analysis:**
+  - Limited historical datasets
+  - High dimensional financial information
+  - Balancing accuracy with computational efficiency
+
+- **Proposed solution:**
+  - Pre-trained foundation models
+  - State-of-the-art time series models, including:
+    - GPT-2 as the backbone LLM
+    - Transformer architectures
+    - Linear models
+
+- **Advantages:**
+  - Outperforms traditional methods
+  - Effective with minimal (*few-shot*) or no fine-tuning (*zero-shot*)
+
+- **Benchmark study:**
+  - Covers financial aid and seven other time series tasks
+  - Highlights LLMs' potential for scarce financial datasets
+
 
 ## Publications
 Large Language Models for Financial Aid in Financial Time-series Forecasting

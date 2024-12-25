@@ -12,8 +12,32 @@ MapReduceRoles4Azure is a distributed decentralized MapReduce runtime for Window
 [Website](http://salsahpc.indiana.edu/mapreduceroles4azure/)
 
 ## Introduction
+### Core Architecture
+- Distributed decentralized MapReduce runtime for Azure
+- Built on Azure cloud infrastructure services
+- Decentralized control model (no master node)
+- Dynamic scaling capabilities
 
-MapReduceRoles4Azure is a distributed decentralized MapReduce runtime for Windows Azure that was developed using Azure cloud infrastructure services. MapReduceRoles4Azure uses Azure Queues for map and reduce task scheduling, Azure Tables for metadata & monitoring data storage, Azure Blob storage for input, output and intermediate data storage and the Window Azure Compute worker roles to perform the computations.  The usage of the cloud infrastructure services allows the MapReduceRoles4Azure implementation to take advantage of the scalability, high availability and the distributed nature of such services guaranteed by the cloud service providers to avoid single point of failures, bandwidth bottlenecks (network as well as storage bottlenecks) and management overheads.The usage of cloud services usually introduces latencies larger than their optimized non-cloud counterparts and often does not guarantee the time for the data's first availability. These overheads can be conquered, however, by using a sufficiently coarser grained map and reduce tasks. MapReduceRoles4Azure overcomes the availability issues by retrying and by designing the system so it does not rely on the immediate availability of data to all the workers.MapReduceRoles4Azure is designed around a decentralized control model without a master node, thus avoiding the possible single point of failure. MapReduceRoles4Azure provides users with the capability to dynamically scale up or down the number of computing instances, even in the middle of a MapReduce computation, as and when it is needed.
+### Azure Service Integration
+- **Azure Queues**: Map/reduce task scheduling
+- **Azure Tables**: Metadata and monitoring
+- **Azure Blob**: Storage (input/output/intermediate)
+- **Azure Compute**: Worker role execution
+
+### Key Benefits
+- High scalability
+- Enhanced availability
+- Distributed processing
+- No single point of failure
+- Reduced bandwidth bottlenecks
+- Minimal management overhead
+
+### Challenge Management
+- Handles higher cloud latencies via coarse-grained tasks
+- Addresses availability issues through:
+  - Retry mechanisms
+  - Non-reliance on immediate data access
+- Supports dynamic instance scaling during computation
 
 <img src='/JudyFox/images/blob.png' width='600' height='300'>
 
@@ -23,7 +47,7 @@ MapReduceRoles4Azure binary beta version together with few samples is available 
  
 1. Visual Studio 2010 is required
 
-2. Install Azure SDK (http://msdn.microsoft.com/en-us/windowsazure/cc974146.aspx)
+2. Install Azure SDK [Link](http://msdn.microsoft.com/en-us/windowsazure/cc974146.aspx)
 
 3. Download MapReduceRoles4Azure library
 

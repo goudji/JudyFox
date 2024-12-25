@@ -10,20 +10,45 @@ Twister4Azure is a distributed decentralized iterative MapReduce runtime for Win
 
 [Website](http://salsahpc.indiana.edu/twister4azure/)
 
-# Introduction
+## Introduction
+### Core Characteristics
+- Distributed decentralized iterative MapReduce runtime for Windows Azure Cloud
+- Extension of MRRoles4Azure
+- Optimized for iterative MapReduce applications
+- Uses decentralized control model (no master node)
 
-Twister4Azure is a distributed decentralized iterative MapReduce runtime for Windows Azure Cloud that was developed using Azure cloud infrastructure services. Twister4Azure extends MRRoles4Azure by introducing extensions and optimizations for iterative MapReduce applications. Twister4Azure supports caching of loop-invarient data, adds a new merge step (map->reduce->merge) to the programming model and introduces a novel cache-aware task scheduling mechanism.
+### Key Features
+- Supports caching of loop-invarient data
+- Introduces new merge step (map->reduce->merge)
+- Implements cache-aware task scheduling
+- Allows dynamic scaling of computing instances
+
+### Azure Services Integration
+- **Azure Queues**: Map and reduce task scheduling
+- **Azure Tables**: Metadata & monitoring data storage
+- **Azure Blob Storage**: Input, output and intermediate data storage
+- **Windows Azure Compute**: Worker roles for computations
+
+### Advantages
+- Takes advantage of cloud service provider guarantees:
+  - Scalability
+  - High availability
+  - Distributed nature
+- Avoids:
+  - Single point of failures
+  - Bandwidth bottlenecks
+  - Management overheads
+
+### Handling Cloud Challenges
+- Addresses higher latencies through coarser grained tasks
+- Overcomes availability issues through:
+  - Retry mechanisms
+  - System design not dependent on immediate data availability
+
 
 <img src='/JudyFox/images/azuremodel.png' width='800' height='700'>
 
-Twister4Azure uses Azure Queues for map and reduce task scheduling, Azure Tables for metadata & monitoring data storage, Azure Blob storage for input, output and intermediate data storage and the Window Azure Compute worker roles to perform the computations.  The usage of the cloud infrastructure services allows the Twister4Azure implementation to take advantage of the scalability, high availability and the distributed nature of such services guaranteed by the cloud service providers to avoid single point of failures, bandwidth bottlenecks (network as well as storage bottlenecks) and management overheads.
-
-The usage of cloud services usually introduces latencies larger than their optimized non-cloud counterparts and often does not guarantee the time for the data's first availability. These overheads can be conquered, however, by using a sufficiently coarser grained map and reduce tasks. MapReduceRoles4Azure overcomes the availability issues by retrying and by designing the system so it does not rely on the immediate availability of data to all the workers.
-
-Twister4Azure is designed around a decentralized control model without a master node, thus avoiding the possible single point of failure. MapReduceRoles4Azure provides users with the capability to dynamically scale up or down the number of computing instances, even in the middle of a MapReduce computation, as and when it is needed.
-
-# Publications
-
+## Publications
 **Conferences/Workshops**  
 Thilina Gunarathne, Bingjing Zhang, Tak-Lon Wu and Judy Qiu. Scalable Parallel Computing on Clouds Using Twister4Azure Iterative MapReduce, Future Generation Computer Systems(FGCS), Available online 22 June 2012, ISSN 0167-739X, 10.1016/j.future.2012.05.027.(6/2012)
 

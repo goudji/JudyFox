@@ -10,48 +10,38 @@ order: 8
 [GitHub](https://github.com/DSC-SPIDAL/harp/tree/subgraph2vec)
 
 ## SubGraph2Vec Vectorized Tree-like Subgraph Counting
+<img src='/JudyFox/images/netg.png' width='400' height='200'>
+### Challenges in Subgraph Counting
+- Extreme computational complexity (O(n^k) for k-size subgraphs)
+- Inefficient memory access patterns
+- Poor SIMD vectorization support
+- Exponential complexity with subgraph size
 
-<img src='/JudyFox/images/netg.png' width='800' height='400'>
+### Solution: SubGraph2Vec Approach
+- **Algorithm Design**
+  - Converts color-coding to matrix operations
+  - Minimizes neighbor traversal
+  - Leverages linear algebra kernels
 
-Subgraph counting aims to count occurrences of a template T in a given network G(V, E). It is a powerful graph analysis tool and has found real-world applications in diverse domains.
+- **System Optimization**
+  - Custom data structures
+  - Optimized thread execution model
+  - Enhanced hardware efficiency for VPU
+  - Improved memory bandwidth usage
 
- 
+### Key Features
+- Highly-vectorized implementation
+- Distributed system support
+- Cross-platform compatibility
+  - CPU support
+  - GPU support
+  - NEC Vector Engine support
 
-Scaling subgraph counting problems is known to be memory bounded and computationally challenging with exponential complexity.
-
- 
-
-Challenges of Subgraph Counting:
-
-* Extremely high computational complexity. counting the exact number of subgraphs of size k in a n-vertex network takes O(n^k)time. Approximate  algorithm has a time complexity linear in network size, it is exponential to subgraph size.
-
-* Memory Access Efficiency. Graph Analytics algorithms usually have irregular and intensive random memory access, which is harmful to efficient cache prefetching.
-
-* SIMD Efficiency. Recent many-core architectures such as Intel Xeon Phi have “Vector processing units” (VPU), which only support SIMD programming mode, while graph analytics algorithms are difficult to be vectorized.
-
-​
-
-Our Approach:
-
-* Algorithmic Design: We convert the sequential color-coding algorithm to matrix operations.
-
-* System design and optimization. We design a data structure as well as a thread execution model to leverage the hardware efficiency of using linear-algebra kernels in terms of vector processing units (VPU) and memory bandwidth.
-
-* Portability to the distributed system and GPU. We scale out our single node implementation on a distributed system with near-linear strong scalability. In addition, we export the codes to NVIDIA GPU and NEC Vector Engine
-
-​
-
-We propose a novel vectorized subgraph counting algorithm, named Subgraph2Vec, as well as both shared memory and distributed implementations:
-
-* Reducing algorithmic complexity by minimizing neighbor traversal;
-
-* Achieving a highly-vectorized implementation upon linear algebra kernels to significantly improve performance and hardware utilization.
-
-* Subgraph2Vec improves the overall performance over the state-of-the-art work by orders of magnitude and up to 660x on a single node.
-
-* Subgraph2Vec in distributed mode can scale up the template size to 20 and maintain good strong scalability.
-
-* Enabling portability to both CPU and GPU.
+### Performance Achievements
+- Up to 660x improvement over state-of-the-art
+- Scales to template size of 20
+- Strong distributed scalability
+- Efficient hardware utilization
 
 ## Publications
 

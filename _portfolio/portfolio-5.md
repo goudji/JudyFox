@@ -13,7 +13,17 @@ PlotViz is a 3D data point browser that visualizes large volume of 2- or 3-dimen
 
 ## Introduction
 
-Large-scale high dimensional data visualization is highly valuable for scientific discovery in many fields of data mining and information retrieval. PlotViz is a 3D data point browser that visualizes large volume of 2- or 3-dimensional data as points in a virtual space on a computer screen and enable users to explore the virtual space interactively. PlotViz was initially designed to consume outputs of dimension reduction algorithms for visualizing high-dimensional data in a lower-dimensional space, such as Multi-dimensional Scaling (MDS) and Generative Topographic Mapping (GTM). Used together with such dimension reduction algorithms, PlotViz can help users to discover intrinsic structures of high-dimensional data and browse large volumes of data points interactively and efficiently in a virtual 3D space.
+### Core Features
+- 3D data point visualization browser
+- Handles large-scale high dimensional data
+- Interactive virtual space exploration
+- Supports 2D/3D data rendering
+
+### Key Capabilities
+- Works with dimension reduction algorithms (MDS, GTM)
+- Discovers intrinsic data structures
+- Enables efficient browsing of large datasets
+- Interactive visualization in virtual 3D space
 
 ## Screenshots
 

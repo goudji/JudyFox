@@ -4,22 +4,32 @@ excerpt: "High Performance Machine Learning tools for achieving your goals faste
 collection: portfolio
 order: 1
 ---
-
 <img src='/JudyFox/images/Harpimage.png' width='100' height='75'>
 
 [Website](https://dsc-spidal.github.io/harp/) [GitHub](https://github.com/DSC-SPIDAL/harp)
 ## Introduction
-
-
 Harp is a HPC-ABDS (High Performance Computing Enhanced Apache Big Data Stack) framework aiming to provide distributed machine learning and other data intensive applications.
-
-​
-
-Recent newly designed Big Data processing tools focus on the abstraction of data and related computation flows. For example, Hadoop MapReduce defines data as Key-Value pairs and computation as Map-Reduce tasks. Pregel/Giraph perceives data as vertices and edges in graphs and computation as BSP iterations. Spark abstracts data as RDDs with transformation operations on top of them. However, there is no abstraction of communication patterns in these tools. On the other hand, traditional distributed data processing tools, represented by MPI, have abstraction of collective communication. But this kind of abstraction is limited because it is only based on arrays and buffers. It cannot support complicated data abstractions and related communication patterns such as shuffling on Key-Values or graph communication based on edges and vertices.
-
-​
-
-To improve the expressiveness and performance in big data processing, the Harp library is introduced, which provides data abstractions and related communication abstractions and transforms map-reduce programming models into map-collective models. The word “harp” symbolizes the effort to make parallel processes cooperate together through collective communication for efficient data processing, just as strings in a harp can make concordant sound. Harp can integrate with Hadoop 1.2.1 and Hadoop 2.2.0. It supports data abstraction types such as arrays, key-values, and graphs with related collective communication operations on top of each type. Several applications are developed based on Harp framework, including K-means clustering, multi-dimensional scaling and PageRank. Being based on Hadoop, Harp has better sustainability and fault tolerance properties than Twister or Twister4Azure that inspired it.
+## Data Abstraction in Big Data Tools
+- Big Data tools focus on abstracting data and computation flows:
+  - **Hadoop MapReduce**: Key-Value pairs with Map-Reduce tasks.
+  - **Pregel/Giraph**: Graphs with BSP iterations.
+  - **Spark**: RDDs with transformation operations.
+- Lack abstraction for communication patterns.
+## Traditional Distributed Processing
+- **MPI** provides collective communication abstraction using arrays/buffers.
+- Limited support for modern data abstractions and communication patterns like Key-Value shuffling.
+## Harp Framework Introduction
+- Enhances expressiveness and performance for Big Data processing.
+- Adds data and communication abstractions, shifting from map-reduce to map-collective models.
+- Integrates with Hadoop 1.2.1 and 2.2.0.
+## Harp Features and Applications
+- Supports data abstraction types: Arrays, Key-Values, Graphs.
+- Implements related collective communication operations.
+- Applications include:
+  - K-means clustering
+  - Multi-dimensional scaling
+  - PageRank
+- Offers better fault tolerance and sustainability than Twister/Twister4Azure.
 
 ## Partners
 ![alt text](/JudyFox/images/partnersHARP.png)

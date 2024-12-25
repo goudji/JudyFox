@@ -7,35 +7,27 @@ order: 2
 <img src='/JudyFox/images/twisterimage1.png' width='100' height='75'>
 
 Build a community to bridge the gap between high performance computing and data analytics.
-
 [Website](https://twister2.org/)
-
 ## Introduction
-MapReduce programming model has simplified the implementations of many data parallel applications. The simplicity of the programming model and the quality of services provided by many implementations of MapReduce attract a lot of enthusiasm among parallel computing communities. From the years of experience in applying MapReduce programming model to various scientific applications we identified a set of extensions to the programming model and improvements to its architecture that will expand the applicability of MapReduce to more classes of applications. Twister is a lightweight MapReduce runtime we have developed by incorporating these enhancements.
+- **Simplifications of MapReduce**:
+  - Simplifies implementations of data parallel applications.
+  - Widely adopted for its simplicity and service quality.
+  - Extensions and enhancements expand applicability to more applications.
 
-​
+- **Features of Twister**:
+  - Distinction between static and variable data.
+  - Configurable long-running (cacheable) map/reduce tasks.
+  - Communication and data transfer via pub/sub messaging.
+  - Efficient support for **Iterative MapReduce computations** (much faster than Hadoop or Dryad/DryadLINQ).
+  - Combine phase to aggregate reduce outputs.
+  - Data access through local disks.
+  - Lightweight design (~5600 lines of Java code).
+  - Supports typical MapReduce computations.
+  - Includes tools for managing data.
 
-Twister provides the following features to support MapReduce computations. (Twister is developed as part of Jaliya Ekanayake's Ph.D. research and is supported by the SALSA Team @ IU)
-
-​
-
-* Distinction on static and variable data
-
-* Configurable long running (cacheable) map/reduce tasks
-
-* Pub/sub messaging based communication/data transfers
-
-* Efficient support for Iterative MapReduce computations (extremely faster than Hadoop or Dryad/DryadLINQ)
-
-* Combine phase to collect all reduce outputs
-
-* Data access via local disks
-
-* Lightweight (~5600 lines of Java code)
-
-* Support for typical MapReduce computations
-
-* Tools to manage data
+- **Development Context**:
+  - Developed as part of Jaliya Ekanayake's Ph.D. research.
+  - Supported by the SALSA Team at Indiana University (IU).
 
 ## Papers and Presentation
 Jaliya Ekanayake, Hui Li, Bingjing Zhang, Thilina Gunarathne, Seung-Hee Bae, Judy Qiu, Geoffrey Fox, Twister: A Runtime for Iterative MapReduce," The First International Workshop on MapReduce and its Applications (MAPREDUCE'10) - HPDC2010
